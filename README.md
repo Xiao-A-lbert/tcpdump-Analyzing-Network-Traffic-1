@@ -40,7 +40,7 @@ The output shows a GET for an "audiodg.exe" from 103.232.55.148.
 
 <br />
 <br />
-Doning some OSINT, the audiodg.exe would normally be a Windows Audio Device file, however, the ip is from Vietnam and the ASN is not associated with Microsoft. 
+Doing some OSINT, the audiodg.exe would normally be a Windows Audio Device file, however, the ip is from Vietnam and the ASN is not associated with Microsoft. 
 
 ![5) osint shows exe is for windows audio and whois shows vietnam](https://github.com/user-attachments/assets/4a8c54b5-3cd0-4907-ad5b-3cff599082dc)
 
