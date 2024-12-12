@@ -1,7 +1,7 @@
 # tcpdump Analyzing Network Traffic 1
 
 <h2>Description</h2>
-In this task, I used tcpdump to example a pcap for suspicious malware that showed a GET request for a audiodg.exe from vietnam. 
+In this task, I used tcpdump to examine a pcap for suspicious malware that showed a GET request for a audiodg.exe from vietnam. 
 
 
 <h2>Languages and Utilities Used</h2>
